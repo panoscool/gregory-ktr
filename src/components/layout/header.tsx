@@ -1,6 +1,7 @@
 import { cn } from "@/lib/utils";
-import { ThemeToggle } from "../theme-toggle";
+// import { ThemeToggle } from "../theme-toggle";
 import { Navigation } from "./navigation";
+import Link from "next/link";
 
 const styles = "sticky top-0 z-10 backdrop-filter backdrop-blur-lg bg-opacity-90";
 
@@ -11,10 +12,12 @@ export function Header() {
         [styles]: false,
       })}
     >
-      <div>logo</div>
+      <h1>
+        <Link href="/">gregorykotrotsios</Link>
+      </h1>
       <div className="flex items-center gap-4">
         <Navigation />
-        <ThemeToggle />
+        {/* <ThemeToggle /> */}
       </div>
     </header>
   );

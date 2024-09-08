@@ -12,7 +12,7 @@ export default function HomePage() {
           alt={album?.alt ?? ""}
           loading="lazy"
           style={{
-            width: "100%",
+            width: "30%",
             height: "auto",
           }}
           width={500}

@@ -25,10 +25,8 @@
     "photos": [
       { "src": "/images/322306970_526151159466792_8891359265103758264_n.jpg", "alt": "image 1" },
       { "src": "/images/326468938_1912985132376812_450405044200816721_n.jpg", "alt": "image 2" },
-      { "src": "/images/unsplash.jpg", "alt": "image 5" },
       { "src": "/images/336342946_769238731208864_4077835799233183115_n.jpg", "alt": "image 3" },
-      { "src": "/images/369067995_3367887746794648_1937640152957248434_n.jpg", "alt": "image 4" },
-      { "src": "/images/suv-unsplash.jpg", "alt": "image 6" }
+      { "src": "/images/369067995_3367887746794648_1937640152957248434_n.jpg", "alt": "image 4" }
     ]
   },
   {
@@ -36,16 +34,14 @@
     "name": "My photos",
     "description": "Some photos from summer",
     "cover": {
-      "src": "/images/unsplash.jpg",
+      "src": "/images/326468938_1912985132376812_450405044200816721_n.jpg",
       "alt": "image 5"
     },
     "photos": [
       { "src": "/images/322306970_526151159466792_8891359265103758264_n.jpg", "alt": "image 1" },
       { "src": "/images/326468938_1912985132376812_450405044200816721_n.jpg", "alt": "image 2" },
-      { "src": "/images/unsplash.jpg", "alt": "image 5" },
       { "src": "/images/336342946_769238731208864_4077835799233183115_n.jpg", "alt": "image 3" },
-      { "src": "/images/369067995_3367887746794648_1937640152957248434_n.jpg", "alt": "image 4" },
-      { "src": "/images/suv-unsplash.jpg", "alt": "image 6" }
+      { "src": "/images/369067995_3367887746794648_1937640152957248434_n.jpg", "alt": "image 4" }
     ]
   },
   {
@@ -59,10 +55,8 @@
     "photos": [
       { "src": "/images/322306970_526151159466792_8891359265103758264_n.jpg", "alt": "image 1" },
       { "src": "/images/326468938_1912985132376812_450405044200816721_n.jpg", "alt": "image 2" },
-      { "src": "/images/unsplash.jpg", "alt": "image 5" },
       { "src": "/images/336342946_769238731208864_4077835799233183115_n.jpg", "alt": "image 3" },
-      { "src": "/images/369067995_3367887746794648_1937640152957248434_n.jpg", "alt": "image 4" },
-      { "src": "/images/suv-unsplash.jpg", "alt": "image 6" }
+      { "src": "/images/369067995_3367887746794648_1937640152957248434_n.jpg", "alt": "image 4" }
     ]
   },
   {
@@ -70,16 +64,14 @@
     "name": "My photos",
     "description": "Some photos from summer",
     "cover": {
-      "src": "/images/suv-unsplash.jpg",
+      "src": "/images/322306970_526151159466792_8891359265103758264_n.jpg",
       "alt": "image 5"
     },
     "photos": [
       { "src": "/images/322306970_526151159466792_8891359265103758264_n.jpg", "alt": "image 1" },
       { "src": "/images/326468938_1912985132376812_450405044200816721_n.jpg", "alt": "image 2" },
-      { "src": "/images/unsplash.jpg", "alt": "image 5" },
       { "src": "/images/336342946_769238731208864_4077835799233183115_n.jpg", "alt": "image 3" },
-      { "src": "/images/369067995_3367887746794648_1937640152957248434_n.jpg", "alt": "image 4" },
-      { "src": "/images/suv-unsplash.jpg", "alt": "image 6" }
+      { "src": "/images/369067995_3367887746794648_1937640152957248434_n.jpg", "alt": "image 4" }
     ]
   }
 ]
